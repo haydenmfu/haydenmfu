@@ -23,12 +23,12 @@ My work starts with **machine learning research and evaluation**: understanding 
 | 🧠 | **AI / ML research** | Representation drift and forecast instability in long-horizon LLM agents |
 | 🧪 | **Evaluation + measurement** | Better ways to probe model behavior, uncertainty, and the gaps between benchmarks and real use |
 | 🗺️ | **Research software** | Maps and data tools that make cultural, historical, and scientific resources easier to explore |
-| ⚖️ | **Responsible AI** | Political bias and fairness in language models and predictive systems |
 | 💧 | **Environmental systems** | Particle-based inference for irrigation estimation, plus correctional models for lake-effect snow forecasting with field-collected sensor data |
+| ⚖️ | **Responsible AI** | Political bias and fairness in language models and predictive systems |
 
 ## Selected project directions
 
-<table><tr><td width="50%" valign="top"><h3>🧠 Models under a microscope</h3><p>Experiments that study representation drift, long-horizon behavior, forecast instability, and the ways models change as tasks and contexts evolve.</p></td><td width="50%" valign="top"><h3>🧭 Research software people can use</h3><p>Reproducible, legible tools that turn complex experiments and messy public data into something people can inspect, extend, and explore.</p></td></tr><tr><td width="50%" valign="top"><h3>⚖️ Technical work with context</h3><p>AI evaluation that takes political bias, fairness, and the people affected by predictive systems seriously—not as final-stage decorations.</p></td><td width="50%" valign="top"><h3>🌎 Environmental systems in the field</h3><p>Satellite observations, weather sensors, geospatial data, and incomplete measurements—because important systems rarely arrive as clean benchmark tables.</p></td></tr></table>
+<table><tr><td width="50%" valign="top"><h3>🧠 Models under a microscope</h3><p>Experiments that study representation drift, long-horizon behavior, forecast instability, and the ways models change as tasks and contexts evolve.</p></td><td width="50%" valign="top"><h3>🧭 Research software people can use</h3><p>Reproducible, legible tools that turn complex experiments and messy public data into something people can inspect, extend, and explore.</p></td></tr><tr><td width="50%" valign="top"><h3>🌎 Environmental systems in the field</h3><p>Satellite observations, weather sensors, geospatial data, and incomplete measurements—because important systems rarely arrive as clean benchmark tables.</p></td><td width="50%" valign="top"><h3>⚖️ Technical work with context</h3><p>AI evaluation that takes political bias, fairness, and the people affected by predictive systems seriously—not as final-stage decorations.</p></td></tr></table>
 
 ## My toolkit
 
