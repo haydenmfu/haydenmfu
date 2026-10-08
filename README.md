@@ -12,23 +12,32 @@
 
 I’m a **Computer Science + Statistics student at Cornell University** who likes building tools for problems that are too messy to fit neatly into a benchmark.
 
-My work starts with **machine learning research and evaluation**: understanding how models represent information, how they behave over long horizons, and how we can measure what benchmarks miss. From there, I like turning careful experiments into useful research software—and keeping questions of fairness, context, and real-world impact in the loop.
+My recent work centers on **machine learning research, forecasting, and research software**: understanding how LLM agents behave over long horizons, improving environmental forecasts with real sensor data, and building data-assimilation tools for systems that are only partially observed. I’m also interested in careful evaluation, reproducible workflows, and the security questions that show up when technical systems meet the real world.
 
 > **My north star:** make complex systems more measurable, more understandable, and more useful.
 
 ## Current threads
 
+These are the areas I’m actively focused on through recent Cornell, Algoverse, and Cornell Geo Data work:
+
 | | Area | What I’m exploring |
 |:--:|:--|:--|
-| 🧠 | **AI / ML research** | Representation drift and forecast instability in long-horizon LLM agents |
-| 🧪 | **Evaluation + measurement** | Better ways to probe model behavior, uncertainty, and the gaps between benchmarks and real use |
-| 🗺️ | **Research software** | Maps and data tools that make cultural, historical, and scientific resources easier to explore |
-| 💧 | **Environmental systems** | Particle-based inference for irrigation estimation, plus correctional models for lake-effect snow forecasting with field-collected sensor data |
-| ⚖️ | **Responsible AI** | Political bias and fairness in language models and predictive systems |
+| 🧠 | **LLM forecasting + representation drift** | Long-horizon forecasting, representation drift, and instability in language-model agents |
+| ❄️ | **Lake-effect snow forecasting** | Correctional models that combine forecasts with field-collected sensor data |
+| 💧 | **Irrigation data assimilation** | Particle-based inference for estimating unobserved irrigation from satellite and land-surface observations |
+| 🗺️ | **Research software + security** | Reproducible tools for experiments and geospatial data, alongside cybersecurity, reverse engineering, and network-security work |
 
 ## Selected project directions
 
-<table><tr><td width="50%" valign="top"><h3>🧠 Models under a microscope</h3><p>Experiments that study representation drift, long-horizon behavior, forecast instability, and the ways models change as tasks and contexts evolve.</p></td><td width="50%" valign="top"><h3>🧭 Research software people can use</h3><p>Reproducible, legible tools that turn complex experiments and messy public data into something people can inspect, extend, and explore.</p></td></tr><tr><td width="50%" valign="top"><h3>🌎 Environmental systems in the field</h3><p>Satellite observations, weather sensors, geospatial data, and incomplete measurements—because important systems rarely arrive as clean benchmark tables.</p></td><td width="50%" valign="top"><h3>⚖️ Technical work with context</h3><p>AI evaluation that takes political bias, fairness, and the people affected by predictive systems seriously—not as final-stage decorations.</p></td></tr></table>
+<table><tr><td width="50%" valign="top"><h3>🧠 Models under a microscope</h3><p>Experiments that study long-horizon forecasting, representation drift, uncertainty, and the ways model behavior changes as tasks and contexts evolve.</p></td><td width="50%" valign="top"><h3>🧭 Research software people can use</h3><p>Reproducible, legible tools that turn complex experiments and partially observed data into something people can inspect, extend, and explore.</p></td></tr><tr><td width="50%" valign="top"><h3>🌎 Environmental systems in the field</h3><p>Satellite observations, weather sensors, geospatial data, and incomplete measurements—because important systems rarely arrive as clean benchmark tables.</p></td><td width="50%" valign="top"><h3>🛡️ Security as a foundation</h3><p>Binary exploitation, cryptography, reverse engineering, and network security through Cornell’s cybersecurity community and ongoing technical practice.</p></td></tr></table>
+
+## Earlier work
+
+The projects below are part of my path, but they are **not current projects**:
+
+- **2023–2024 · I3 cultural resources map:** built a map and data experience for exploring cultural, historical, and scientific resources.
+- **Earlier student work · Political bias and fairness:** studied political bias in language models and predictive systems before my current Cornell research focus.
+- **Earlier policy and prediction projects:** explored policy data, predictive systems, and related questions around fairness, context, and public impact, including work connected to COMPAS.
 
 ## My toolkit
 
@@ -36,8 +45,8 @@ My work starts with **machine learning research and evaluation**: understanding 
 
 ## Beyond the terminal
 
-I’m usually happiest working on something tangible, learning a new technical rabbit hole, or finding a quiet place to recharge. I also compete with Cornell’s cybersecurity club, where I trade model evaluations and environmental datasets for binary exploitation, cryptography, reverse engineering, and network security.
+I’m usually happiest working on something tangible, learning a new technical rabbit hole, or finding a quiet place to recharge. I also compete with Cornell’s cybersecurity club, where I trade forecasting and environmental data for binary exploitation, cryptography, reverse engineering, and network security.
 
-If you’re working on a thoughtful **ML, evaluation, research software, environmental, or security** project, I’d be glad to hear about it.
+If you’re working on a thoughtful **ML, forecasting, research software, environmental, or security** project, I’d be glad to hear about it.
 
 <div align="center"><a href="https://haydenmfu.github.io">haydenmfu.github.io</a> · <a href="https://www.linkedin.com/in/hayden-fu">LinkedIn</a> · <a href="mailto:haydenmfu@gmail.com">haydenmfu@gmail.com</a></div>
