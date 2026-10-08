@@ -47,13 +47,6 @@
     <path d="M1010 86 L1088 150"/>
   </g>
 
-  <!-- folded notebook page -->
-  <g transform="translate(1084 208)" opacity=".7">
-    <path d="M8 4 H46 L58 16 V48 H8 Z" fill="#FFF8EC" stroke="#B9A88D" stroke-width="1.25"/>
-    <path d="M46 4 V16 H58" fill="#F0E4D0" stroke="#B9A88D" stroke-width="1.25"/>
-    <path d="M16 22 H42 M16 30 H38 M16 38 H40" stroke="#8A7A63" stroke-width="1.4" stroke-linecap="round"/>
-  </g>
-
   <g font-family="Georgia, 'Times New Roman', serif" fill="#1C1917">
     <text x="72" y="118" font-size="64" font-weight="700" letter-spacing="-1.5">Hayden Fu</text>
   </g>
